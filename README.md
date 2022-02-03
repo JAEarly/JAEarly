@@ -14,7 +14,7 @@
     - Multiple instance learning  
 
 :mailbox_with_mail: How to reach me:  
-    - Email is probably the best bet.  
-    - You can find my details on [my website](https://www.jearly.co.uk/)
+    - Email is probably the best bet: joseph.early.ai@gmail.com  
+    - You can find out more about me on my website: https://www.jearly.co.uk/
 
 :point_down: See some of my projects below! :point_down:
