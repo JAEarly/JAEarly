@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome to my GitHub!
 
-<!--
-**JAEarly/JAEarly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_technologist: I’m currently working on:  
+    - Techniques for interpreting multiple instance learning (MIL) models.  
+    - Bayesian approaches to MIL.  
+    - A PyTorch MIL library.  
 
-Here are some ideas to get you started:
+:raising_hand_man: I’m currently learning:  
+    - About the role of AI in climate science.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: I’m looking to collaborate on:  
+    - Multiple instance learning projects, especially domain specific applications (e.g., medicine, remote sensing etc.).  
+
+:grey_question: Ask me about:  
+    - Explainable AI.  
+    - Multiple instance learning.  
+
+:mailbox_with_mail: How to reach me:  
+    - Email is probably the best bet.  
+    - You can find my details on [my website](https://www.jearly.co.uk/)!
