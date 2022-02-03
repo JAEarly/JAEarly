@@ -9,7 +9,7 @@
     - About the role of AI in climate science.  
 
 :rocket: I’m looking to collaborate on:  
-    - Multiple instance learning projects, especially domain specific applications (e.g., medicine, remote sensing etc.).  
+    - Multiple instance learning projects, especially domain specific applications (e.g., medicine, remote sensing).  
 
 :grey_question: Ask me about:  
     - Explainable AI.  
@@ -18,3 +18,5 @@
 :mailbox_with_mail: How to reach me:  
     - Email is probably the best bet.  
     - You can find my details on [my website](https://www.jearly.co.uk/)!
+
+:point_down: See some of my projects below! :point_down:
