@@ -5,6 +5,7 @@
 
 :raising_hand_man: I’m currently learning:  
     - About the role of AI in climate science  
+    - Self-supervised learning  
 
 :rocket: I’m looking to collaborate on:  
     - Multiple instance learning projects, especially domain specific applications (e.g., medicine, remote sensing)  
