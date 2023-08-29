@@ -1,6 +1,6 @@
 :man_technologist: I’m currently working on:  
     - Techniques for interpreting multiple instance learning (MIL) models  
-    - Multi-resolution MIL for high resolution images
+    - Multi-resolution MIL for high resolution images  
     - MIL for time series classification
 
 :raising_hand_man: I’m currently learning:  
