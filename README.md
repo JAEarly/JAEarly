@@ -1,11 +1,12 @@
 :man_technologist: I’m currently working on:  
     - Techniques for interpreting multiple instance learning (MIL) models  
-    - Bayesian approaches to MIL  
-    - A PyTorch MIL library  
+    - Multi-resolution MIL for high resolution images
+    - MIL for time series classification
 
 :raising_hand_man: I’m currently learning:  
     - About the role of AI in climate science  
     - Self-supervised learning  
+    - Generative AI
 
 :rocket: I’m looking to collaborate on:  
     - Multiple instance learning projects, especially domain specific applications (e.g., medicine, remote sensing)  
